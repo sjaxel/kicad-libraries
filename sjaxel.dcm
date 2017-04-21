@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BSC016N04LS
+D OptiMOS™3 BSC016N04LS 
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP DS75
+D Temperature sensor (2 wire)
+K temperature sensor
+$ENDCMP
+#
+$CMP GroundPoint
+D Ground point (3 points)
+K ground, single point, reference
+$ENDCMP
+#
+$CMP IRFH7084
+D OptiMOS™3 BSC016N04LS 
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP LM6261
+D Op Amp.
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP NCP5501
+D LDO regulator TO-252-3
+$ENDCMP
+#
+$CMP NE5534
+D Op Amp.
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP PWR_CON_01x03
+D Connector 01x03
+$ENDCMP
+#
+$CMP PowerConnector_01x01
+D Connector 01x01
+$ENDCMP
+#
+$CMP PowerInput
+D Connector 01x02
+$ENDCMP
+#
+#End Doc Library
